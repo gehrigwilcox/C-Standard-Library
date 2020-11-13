@@ -251,10 +251,6 @@ long double atan2l(long double y, long double x);
 
   Compute the cosine of x (measured in radians)
 
-  Implementation: We will be using the CORDIC Method:
-  https://en.wikipedia.org/wiki/CORDIC
-  https://www.allaboutcircuits.com/technical-articles/an-introduction-to-the-cordic-algorithm/
-
   Returns cos x
 
 */
@@ -267,10 +263,6 @@ long double cosl(long double x);
 
   Compute the sine of x (measured in radians)
 
-  Implementation: We will be using the CORDIC Method:
-  https://en.wikipedia.org/wiki/CORDIC
-  https://www.allaboutcircuits.com/technical-articles/an-introduction-to-the-cordic-algorithm/
-
   Returns sin x
 
 */
@@ -282,10 +274,6 @@ long double sinl(long double x);
 /*
 
   Compute the tan of x (measured in radians)
-
-  Implementation: We will be using the CORDIC Method:
-  https://en.wikipedia.org/wiki/CORDIC
-  https://www.allaboutcircuits.com/technical-articles/an-introduction-to-the-cordic-algorithm/
 
   Returns tan x
 

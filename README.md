@@ -1,2 +1,2 @@
 # C-Standard-Library
-My implementation of C11 Standard Library
+My implementation of C18 Standard Library
